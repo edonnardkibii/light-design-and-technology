@@ -1,0 +1,80 @@
+
+
+___________________________ START CALCULATION ________________________________
+[Scenename:] Auﬂenbereich 1
+[Scenefile:] C:\Users\kibii\AppData\Local\Temp\Relux2011_TempProject\RlxProject_1.rdf
+______________________________________________________________________________
+RlxCalculator Version: 2019.3.5.0 64-bit
+______________________________________________________________________________
+[Calculation type: ]
+Artificial Lighting
+
+______________________________________________________________________________
+[CPU and Multicore Information:] 
+______________________________________________________________________________
+[Vendor: ] GenuineIntel
+[Brand: ] Intel(R) Core(TM) i5-8265U CPU @ 1.60GHz
+[OS Architecture: ] AMD64 x64
+[Number of logical processors: ] 8
+[Max. number of threads: ] 8
+[OpenMP wait policy: ] PASSIVE
+[OpenMP processor binding: ] FALSE
+______________________________________________________________________________
+[MaxCells inside VisGrid: ] 40
+______________________________________________________________________________
+[Luminaire and Measuring Point parameters:] 
+______________________________________________________________________________
+[Number of Luminaires:] 47
+[Total flux of Luminaires:] 23085.5
+[Quadratic Interpolation:] 1
+[Number of Measuring Points: ] 0
+[Number of UGR Observers: ] 0
+[Number of GR Observers: ] 0
+______________________________________________________________________________
+[Mesh Cluster information:] 
+______________________________________________________________________________
+[Number of Prototypes:] 1270
+[Number of Clones: ] 17680
+[Number of ordinary Clusters: ] 0
+______________________________________________________________________________
+[Progressive Radiosity Parameters:] 
+______________________________________________________________________________
+[Cluster Cloning:] 1
+[AttenuationFactor:] 1.25
+[FluxFactor:] 1
+[Indirect Portion:] 1
+[Substructuring:] 1
+[Maximal Shots:] 1
+[Patch Subdivision:] 5
+[Element Subdivision:] 2
+[Termination Threshold:] 0.5
+[Formfactor Threshold:] 0.1
+[Formfactor Correction:] 1
+[Area Threshold:] 0.1
+[OuterSurface On/Off:] 1
+[Number of original Polygons:] 76
+[Number of Patches:] 31958
+______________________________________________________________________________
+[ Artificial Lighting: ]
+______________________________________________________________________________
+[Classical Maintenancefactor: ]
+[Iterations: ] 85
+[Number of Elements direct Illum.: ] 35615
+[Number of Elements indirect Illum.: ] 17935
+[Number of Clusters: ] 6430
+[Original Indirect Power: ] 8620.35
+[Remaining Indirect Power: ] 4304.86
+[Luminous Flux Luminaires: ] 22747.7
+[Luminous Flux Direct Elements: ] 0
+[Flux Correction Factor Direct: ] 0
+[Flux Correction Factor Indirect: ] 0
+[Luminous Flux Indirect Elements: ] 0
+[Luminous Flux Patches: ] 0
+[Remaining Luminance: ] 0
+[Average Reflectance: ] 0.278629
+______________________________________________________________________________
+[Total calculation time in(sec.): ] 11
+[Min Luminance total: ] 3.1831e-05
+[Max Luminance total: ] 388.253
+[Mean Luminance total: ] 4.73055
+[Calculation status:] finished
